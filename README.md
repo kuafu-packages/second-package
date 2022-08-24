@@ -1,2 +1,0 @@
-# second-package
-[READ ONLY]
